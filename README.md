@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Vishu Tyagi</h1>
+<h3 align="center">Software Engineer | Web Developer | AI-ML Enthusiast</h3>
+
+
+## About Me
+I am a passionate Software Engineer, Web Developer, and AI-ML-DS Enthusiast currently on a journey of continuous learning and exploration. My academic background is in Computer Science and Engineering, and I thrive on expanding my expertise in various domains.
+
 
 <!--
 **vishutyagii/vishutyagii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
