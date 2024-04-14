@@ -3,7 +3,7 @@
 
 
 ## About Me
-I am a passionate Software Engineer, Web Developer, and AI-ML-DS Enthusiast currently on a journey of continuous learning and exploration. My academic background is in Computer Science and Engineering, and I thrive on expanding my expertise in various domains.
+I am a passionate Software Engineer, Web Developer, and AI-ML-DS Enthusiast currently on a journey of continuous learning and exploration. My academic background is in Computer Science and Engineering (Artificial Intelligence & Machine Learning), and I thrive on expanding my expertise in various domains.
 
 
 <!--
