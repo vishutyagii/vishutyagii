@@ -16,10 +16,7 @@ I am a passionate Software Engineer, Web Developer, and AI-ML-DS Enthusiast curr
 
 ## Connect with me <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px">
 <!--<p align="center"><img align="center" alt="Coding" width="100%" src="https://cdn.discordapp.com/attachments/854369708812140564/942666586936975400/Vishu_Banner.gif"></p>-->
-<a href="https://twitter.com/vishutyagii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agrawalanuj018" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishutyagii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agrawalanuj018" height="30" width="40" /></a>
-<a href="https://instagram.com/vishu.tyagi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agrawalanuj18" height="30" width="40" /></a>
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishu.tyagi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishutyagii/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@vishutyagii) 
 
 
 
