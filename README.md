@@ -7,7 +7,7 @@
 <img align="right" height="350px" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
 
  ## 💫 About Me
-I am a passionate Software Engineer, Web Developer, and AI-ML-DS Enthusiast currently on a journey of continuous learning and exploration. My academic background is in Computer Science and Engineering (Artificial Intelligence & Machine Learning), and I thrive on expanding my expertise in various domains.
+I am a passionate Software Engineer, Data Analyst, and AI-ML-DS Enthusiast currently on a journey of continuous learning and exploration. My academic background is in Computer Science and Engineering (Artificial Intelligence & Machine Learning), and I thrive on expanding my expertise in various domains.
  ## 🔍 Interests 
 - Artificial Intelligence
 - Machine Learning
