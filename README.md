@@ -1,4 +1,4 @@
-<h1 align='center'> Hey Folks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">, I'm Vishu Tyagi</h1>
+<h1 align='center'> Hey Folks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">, I'm Vishu </h1>
 <h3 align="center">Software Engineer | AI-ML Enthusiast | Love to learn and explore 🚀</h3>
 <img width="100%" alt="GIF" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif" />
 
